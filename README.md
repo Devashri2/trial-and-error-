@@ -1,2 +1,2 @@
-# trial-and-error-
+# blueberry_kamba
 to explore GitHub 
